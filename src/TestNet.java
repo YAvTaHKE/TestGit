@@ -3,6 +3,7 @@ public class TestNet {
         System.out.println("Первая строчка рабочий комп");
         System.out.println("Новая ветка на WorkPC");
         System.out.println("изменение на WorkPC");
+        System.out.println("изменение на WorkPC");
     }
 
 
