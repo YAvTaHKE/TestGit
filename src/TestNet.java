@@ -4,6 +4,8 @@ public class TestNet {
         System.out.println("Новая ветка на WorkPC");
         System.out.println("изменение на WorkPC");
         System.out.println("изменение на WorkPC");
+        System.out.println("овая ветка 2 на WorkPC");
+
     }
 
 
